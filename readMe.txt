@@ -14,18 +14,4 @@
 //UI
 
 
-Model->
-UserName
-Balance
-email
-password
-DOB
 
-Work on->
-Login info in Model
-rest API url
-Status code for All
-Add money
-User should come in DTO
-
-https://github.com/prashant-7748/E-Wallet-Banking
