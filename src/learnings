@@ -1,0 +1,2 @@
+@Transactional 
+annotation to ensure that the entire method is treated as a single transaction, which helps maintain atomicity and durability12.
